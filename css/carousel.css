@@ -1,13 +1,8 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Ubuntu&display=swap');
 
-body {
-  padding-bottom: 3rem;
-  color: #f1f1f1;
-  font-family: 'sfcameraregular';
-  background-color: rgb(0, 0, 0);
-}
 
 @font-face {
   font-family: 'sfcameraregular';
@@ -18,21 +13,11 @@ body {
 
 }
 
-
-/* MARKETING CONTENT
--------------------------------------------------- */
-
-/* Center align the text within the three columns below the carousel */
-.marketing .col-lg-4 {
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-.marketing h2 {
-  font-weight: 400;
-}
-.marketing .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
+body {
+  padding-bottom: 3rem;
+  color: #f1f1f1;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: rgb(0, 0, 0);
 }
 
 
