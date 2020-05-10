@@ -3,9 +3,12 @@
 /* Padding below the footer and lighter body text */
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Ubuntu&display=swap');
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .animatedDots {
     width: 70%;
+  }
+  .jumbotron {
+    padding-top: 20%;
   }
 }
 
